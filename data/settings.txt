@@ -1,0 +1,5 @@
+{
+    "global" :{"program": "path\to\program", "window" : "WindowName","timeout": "3"},
+    "commands": {"follow" : "1","copy" : "2", "paste" : "5"},
+    "stop":"stop", "reload":"reload"
+}
